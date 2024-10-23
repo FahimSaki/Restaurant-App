@@ -1,4 +1,4 @@
-# 🍽️ Redford Restaurant App
+# 🍽️ Redford Restaurant App (A South Indian authentic restaurant)
 
 Welcome to the **Redford Restaurant** app! This mobile application is designed to provide a seamless dining experience, allowing you to browse our delicious menu, explore your favorite dishes, and place orders with ease. 
 

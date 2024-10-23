@@ -28,4 +28,4 @@ To run the Redford Restaurant app, ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/restaurant_app.git
+   git clone https://github.com/FahimSaki/Restaurant-App.git

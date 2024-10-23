@@ -12,7 +12,7 @@ Welcome to the **Redford Restaurant** app! This mobile application is designed t
 
 ## 📸 Preview
 
-![Landing Screen](assets/images/background_landing3.png)
+![Landing Screen](assets/images/redford_thali.png)
 
 ## 📱 Getting Started
 
